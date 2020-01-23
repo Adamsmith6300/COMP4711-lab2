@@ -3,6 +3,7 @@
 body {
     font-family: 'Nunito', sans-serif;
 }
+
 #artistSearch {
     border-radius: 3px;
     width: 30%;
@@ -24,14 +25,11 @@ body {
     border-radius: 1px;
     border: 1px solid rgba(0,0,0,0);
     height: 20px;
-    /* box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06); */
     box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.06);
 }
 
 #artistList {
     width: 100%;
-    /* display: flex; */
-    /* flex-direction: column; */
 }
 
 .artist {
